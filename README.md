@@ -2,7 +2,9 @@
 
 Cloudflare DoH proxy worker。
 
-借助 Cloudflare CDN 平台中转加速任意 DoH (RFC8484) 流量。无需服务器和域名。
+借助 Cloudflare CDN 平台中转加速任意 DoH (RFC8484) 流量
+
+无需服务器和域名
 
 ## 如何使用
 
